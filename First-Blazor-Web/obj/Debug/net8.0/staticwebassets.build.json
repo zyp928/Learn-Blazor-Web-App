@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IJhjxBo9moy5k7wfFJ76dkSiX/M0NA1AqOHpVueGO0Y=",
+  "Hash": "zywCN3da5PYVhZrC3q3JLNM4Feim8vEjuOYTYY2hTV0=",
   "Source": "Learn-Blazor-Web-App",
   "BasePath": "_content/Learn-Blazor-Web-App",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Learn-Blazor-Web-App/wwwroot",
       "Source": "Learn-Blazor-Web-App",
-      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/",
+      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/",
       "BasePath": "_content/Learn-Blazor-Web-App",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/obj/Debug/net8.0/scopedcss/bundle/Learn-Blazor-Web-App.styles.css",
+      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/obj/Debug/net8.0/scopedcss/bundle/Learn-Blazor-Web-App.styles.css",
       "SourceId": "Learn-Blazor-Web-App",
       "SourceType": "Computed",
-      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/Learn-Blazor-Web-App",
       "RelativePath": "Learn-Blazor-Web-App.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/obj/Debug/net8.0/scopedcss/bundle/Learn-Blazor-Web-App.styles.css"
+      "OriginalItemSpec": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/obj/Debug/net8.0/scopedcss/bundle/Learn-Blazor-Web-App.styles.css"
     },
     {
-      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/obj/Debug/net8.0/scopedcss/projectbundle/Learn-Blazor-Web-App.bundle.scp.css",
+      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/obj/Debug/net8.0/scopedcss/projectbundle/Learn-Blazor-Web-App.bundle.scp.css",
       "SourceId": "Learn-Blazor-Web-App",
       "SourceType": "Computed",
-      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/Learn-Blazor-Web-App",
       "RelativePath": "Learn-Blazor-Web-App.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/obj/Debug/net8.0/scopedcss/projectbundle/Learn-Blazor-Web-App.bundle.scp.css"
+      "OriginalItemSpec": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/obj/Debug/net8.0/scopedcss/projectbundle/Learn-Blazor-Web-App.bundle.scp.css"
     },
     {
-      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/app.css",
+      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/app.css",
       "SourceId": "Learn-Blazor-Web-App",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/",
+      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/",
       "BasePath": "_content/Learn-Blazor-Web-App",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "Learn-Blazor-Web-App",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/",
+      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/",
       "BasePath": "_content/Learn-Blazor-Web-App",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "Learn-Blazor-Web-App",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/",
+      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/",
       "BasePath": "_content/Learn-Blazor-Web-App",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/favicon.png",
+      "Identity": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/favicon.png",
       "SourceId": "Learn-Blazor-Web-App",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/wwwroot/",
+      "ContentRoot": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/wwwroot/",
       "BasePath": "_content/Learn-Blazor-Web-App",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

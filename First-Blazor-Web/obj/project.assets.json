@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/Learn-Blazor-Web-App.csproj",
+      "projectUniqueName": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/Learn-Blazor-Web-App.csproj",
       "projectName": "Learn-Blazor-Web-App",
-      "projectPath": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/Learn-Blazor-Web-App.csproj",
+      "projectPath": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/Learn-Blazor-Web-App.csproj",
       "packagesPath": "/home/zyp/.nuget/packages/",
-      "outputPath": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/obj/",
+      "outputPath": "/home/zyp/Documents/DotnetProject/Learn-Blazor-Web-App/First-Blazor-Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zyp/.nuget/NuGet/NuGet.Config"
